@@ -1,7 +1,7 @@
- Login react form build with formik
-Better react forms with formik
+#Login form
+Login form build using react with formik 
 
-<b><h2>Formik</h2></b>
+#Formik
       <p>Formik helps to write the three most annoying parts of building a form:
 
     Getting values in and out of form state
